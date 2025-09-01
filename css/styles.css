@@ -137,10 +137,7 @@ a {
   text-transform: capitalize;
 }
 
-.cart-mark-item-title,
-.cart-tom-item-title,
-.cart-camila-item-title,
-.cart-daniel-item-title {
+.cart-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -171,5 +168,5 @@ a {
 }
 
 .title-portfolio {
-  text-transform: capitalize
+  text-transform: capitalize;
 }
