@@ -152,3 +152,7 @@ h3 {
   /* Колір - стиль white */
   background-color: #FFF;
 }
+
+.card-list {
+  background-color: #F4F4FD;
+}
