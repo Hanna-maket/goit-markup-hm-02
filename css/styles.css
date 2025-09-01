@@ -85,10 +85,22 @@ a {
 .punctuality-item-title,
 .diligence-item-title,
 .technologies-item-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.advantages-item-text,
+.punctuality-item-text,
+.diligence-item-text,
+.technologies-item-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .footer-logo-part {
@@ -105,4 +117,68 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+
+.team-title,
+.title-portfolio {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.cart-mark-item-title,
+.cart-tom-item-title,
+.cart-camila-item-title,
+.cart-daniel-item-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.cart-mark-item-text,
+.cart-tom-item-text,
+.cart-camila-item-text,
+.cart-daniel-item-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+
+.portfolio {
+  background-color: #f4f4fd;
+}
+
+.portfolio-item-title,
+.payment-item-title,
+.app-item-title,
+.service-item-title,
+.illustrations-item-title,
+.courses-item-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfolio-type,
+.payment-type,
+.app-type,
+.service-type,
+.illustrations-type,
+.courses-type {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
