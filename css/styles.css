@@ -72,18 +72,19 @@ a {
 }
 
 .hero-button {
+  font-family: inherit;
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  cursor: pointer;
 }
 
 .hero-button:hover,
 .hero-button:focus {
   background-color: #404BBF;
-  cursor: pointer;
 }
 
 .section-title {
@@ -155,6 +156,6 @@ a {
   text-transform: capitalize;
 }
 
-.cart-list {
+.team-title {
   background-color: #FFFFFF;
 }
