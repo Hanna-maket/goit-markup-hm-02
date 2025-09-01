@@ -113,11 +113,7 @@ body {
 }
 
 .section-team {
-  background: #f4f4fd;
-}
-
-.team-title {
-  text-transform: capitalize;
+  background-color: #f4f4fd;
 }
 
 .portfolio {
@@ -126,10 +122,6 @@ body {
 
 .title-portfolio {
   text-transform: capitalize;
-}
-
-.team-title {
-  background-color: #FFFFFF;
 }
 
 p {
@@ -149,5 +141,11 @@ h3 {
 }
 
 .card-team {
-  background-color: #F4F4FD;
+  /* Колір - стиль white */
+  background-color: #FFF;
+}
+
+.team-title {
+  background-color: #f4f4fd;
+  text-transform: capitalize;
 }
