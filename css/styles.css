@@ -71,14 +71,18 @@ a {
   color: #fff;
 }
 
-.order-service,
-.button {
-  background: #4d5ae5;
+.order-service {
+  background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+}
+
+.order-service:hover,
+.order-service:focus {
+  background-color: #404BBF
 }
 
 .advantages-item-title,
