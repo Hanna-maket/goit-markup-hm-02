@@ -160,7 +160,9 @@ a {
   background-color: #f4f4fd;
 }
 
-.portfolio-item-title {
+
+/* Portfolio */
+h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -168,7 +170,7 @@ a {
   color: #2e2f42;
 }
 
-.portfolio-type {
+p {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
