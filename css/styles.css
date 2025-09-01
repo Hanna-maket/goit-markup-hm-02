@@ -4,12 +4,12 @@ body {
   background-color: #fff;
 }
 
-ul,
-ol {
+.ul,
+.ol {
   list-style: none;
 }
 
-a {
+.a {
   text-decoration: none;
   color: #2e2f42;
 }
