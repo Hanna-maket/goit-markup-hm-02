@@ -107,6 +107,15 @@ a {
   color: #434455;
 }
 
+.team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
 .footer-logo-part {
   color: #f4f4fd;
 }
@@ -123,7 +132,12 @@ a {
   color: #f4f4fd;
 }
 
+.section-team {
+  background: #f4f4fd;
+}
+
 .team-title {
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -136,9 +150,9 @@ a {
 .cart-tom-item-title,
 .cart-camila-item-title,
 .cart-daniel-item-title {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -162,7 +176,7 @@ a {
 
 
 /* Portfolio */
-h3 {
+.h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -170,7 +184,7 @@ h3 {
   color: #2e2f42;
 }
 
-p {
+.p {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
