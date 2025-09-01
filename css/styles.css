@@ -119,11 +119,10 @@ a {
   color: #f4f4fd;
 }
 
-.team-title,
-.title-portfolio {
+.team-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -135,7 +134,7 @@ a {
 .cart-daniel-item-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -181,4 +180,13 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.title-portfolio {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
