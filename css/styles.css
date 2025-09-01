@@ -58,11 +58,11 @@ a {
   color: #2e2f42;
 }
 
-.main-section {
+.hero-section section {
   background: #2e2f42;
 }
 
-.effective-title {
+.hero-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -71,7 +71,7 @@ a {
   color: #fff;
 }
 
-.order-service {
+.hero-button {
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -80,8 +80,8 @@ a {
   color: #fff;
 }
 
-.order-service:hover,
-.order-service:focus {
+.hero-button:hover,
+.hero-button:focus {
   background-color: #404BBF
 }
 
