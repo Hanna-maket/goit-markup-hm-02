@@ -147,3 +147,8 @@ h3 {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
+.card-item {
+  /* Колір - стиль white */
+  background-color: #FFF;
+}
