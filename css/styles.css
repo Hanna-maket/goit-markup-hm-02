@@ -85,6 +85,16 @@ a {
   background-color: #404BBF
 }
 
+.section-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+
 .advantages-item-title,
 .punctuality-item-title,
 .diligence-item-title,
@@ -107,14 +117,7 @@ a {
   color: #434455;
 }
 
-.team-title {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-}
+.team-title {}
 
 .footer-logo-part {
   color: #f4f4fd;
@@ -138,12 +141,6 @@ a {
 
 .team-title {
   text-transform: capitalize;
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
 }
 
 .cart-mark-item-title,
@@ -192,12 +189,17 @@ a {
   color: #434455;
 }
 
-.title-portfolio {
-  text-transform: capitalize;
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11;
+.title-portfolio {}
+
+.portfolio-item-title,
+.payment-item-title,
+.app-item-title,
+.service-item-title,
+.illustrations-item-title,
+.courses-item-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #2e2f42;
 }
