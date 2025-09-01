@@ -136,7 +136,7 @@ a {
   color: #2e2f42;
 }
 
-.item-text {
+.item-text .type {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -149,14 +149,12 @@ a {
   background-color: #f4f4fd;
 }
 
-.type {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
+.type {}
 
 .title-portfolio {
   text-transform: capitalize;
+}
+
+.cart-list {
+  background-color: #FFFFFF;
 }
